@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelperWeb.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ca039699ab6a8032ee321d2521ad739c4bf557f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55c8fb9e4b2f0b0271563def9fe260353b3da693")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelperWeb.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelperWeb.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
