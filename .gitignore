@@ -1,3 +1,22 @@
 ".vs/" 
 "HelperWeb.Api/.vs/"
 
+# Ignore Visual Studio temporary files and build results
+*.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build output directories
+**/bin/
+**/obj/
+
+# Ignore other files related to Visual Studio and NuGet
+**/*.AssemblyInfo.cs
+**/*.AssemblyInfoInputs.cache
+**/*.GeneratedMSBuildEditorConfig.editorconfig
+**/*.assets.cache
+**/*.nuget.dgspec.json
+**/project.assets.json
+**/project.nuget.cache
