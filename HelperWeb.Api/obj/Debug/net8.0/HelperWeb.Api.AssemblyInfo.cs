@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelperWeb.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da8c9bfdeb2667f456e36be93dfd7ec0b9b21d98")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ca039699ab6a8032ee321d2521ad739c4bf557f")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelperWeb.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelperWeb.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
